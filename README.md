@@ -1,7 +1,6 @@
 # shakra
 <h1 align="center">He 👋, him Abdishakur hussein ali</h1>
-<h3 align="center">A passionate frontend developer🔥 Mobile Application Developer📲</h3>
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+<h3 align="center">A passionate frontend developer🔥 Mobile Application Developer📲</h3
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
