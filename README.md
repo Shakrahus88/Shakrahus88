@@ -1,4 +1,3 @@
-# shakra
 <h1 align="center">He 👋, him Abdishakur hussein ali</h1>
 <h3 align="center">A passionate frontend developer🔥 Mobile Application Developer📲</h3
 
